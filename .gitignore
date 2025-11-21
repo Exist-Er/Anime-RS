@@ -1,0 +1,5 @@
+venv/
+archive/*
+data/*
+.ipynb_checkpoints/
+GEMINI.md
