@@ -3,3 +3,4 @@ archive/*
 data/*
 .ipynb_checkpoints/
 GEMINI.md
+!data/users/*/
