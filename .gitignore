@@ -3,3 +3,4 @@ data/*
 .ipynb_checkpoints/
 GEMINI.md
 !data/users/*/
+wsl_venv/
